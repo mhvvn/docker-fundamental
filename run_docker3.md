@@ -80,4 +80,4 @@ Open in browser http://10.10.10.11 then complete the installation
 - Can access wordpress using English
 - phpmyadmin can be accessed
 - Status ubuntu2 paused
-- wordpress container specs as required
+- wordpress container specs as required.
